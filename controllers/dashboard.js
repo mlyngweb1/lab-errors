@@ -27,4 +27,4 @@ const dashboard = {
   },
 };
 
-export default dashboard;
+export default dashboar;

@@ -2,7 +2,7 @@
 import logger from "../utils/logger.js";
 
 const about = {
-  createView(request, response) {
+  aboutView(request, response) {
     logger.info("About page loading!");
     response.send('About the Playlist app');   
   },
